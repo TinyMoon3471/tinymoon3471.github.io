@@ -1,4 +1,4 @@
-baseURL = 'http://tinymoon3471.github.io/'
+baseURL = 'https://tinymoon3471.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
