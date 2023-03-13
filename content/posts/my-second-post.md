@@ -1,7 +1,7 @@
 ---
 title: "My Second Post"
 date: 2023-03-13T17:25:32+08:00
-draft: true
+draft: false
 ---
 
 # Machine learning - Wikipedia
